@@ -1,27 +1,14 @@
 ## This is a markdown file.
-## Testing push.
-### Second push test.
 
-<ul id="ProjectSubmenu">
-    <li><a href="/projects/markdown/" title="Markdown Project Page">Main</a></li>
-    <li><a href="/projects/markdown/basics" title="Markdown Basics">Basics</a></li>
-    <li><a class="selected" title="Markdown Syntax Documentation">Syntax</a></li>
-    <li><a href="/projects/markdown/license" title="Pricing and License Information">License</a></li>
-    <li><a href="/projects/markdown/dingus" title="Online Markdown Web Form">Dingus</a></li>
+<ul id="Help Links">
+    <li><a href="http://daringfireball.net/projects/markdown/syntax.text" title="Daringfireball">Daring FireBall File</a></li>
 </ul>
 
-
-Data science toolbox.
+I used the *Daringfireball* text file to do the list above and get some help for markdown syntax.
 
 Format testing.
 ============
 
-
-Next specializations:
-
-*Challenges in Global Affairs
-*Mobile cloud computing.
-
-This is a [link back to github page](https://github.com/langwidlow/datasciencecoursera).
+This is a [link back to github project page](https://github.com/langwidlow/datasciencecoursera).
 
 
